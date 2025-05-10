@@ -6,6 +6,6 @@ using postgresql as datawarehous for storing and pentahold for ETL processing an
 
 1. Load Data from resources (CSV)
 2. ETL processing:
-Extract, select fileds, generate a primary field, modified javascript for transforming field
+Extract, select fileds, generate a primary field, modified javascript for transforming fields,
 Mapping different tables base on thier common fields
 3. Loading to PosgrestSQL(PG admin).
